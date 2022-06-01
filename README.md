@@ -1,5 +1,5 @@
 # lab-riscv-asm
-ifmo uni / syntacore llc "SoC design" course work
+(1/3) ifmo uni / syntacore llc "SoC design" course work
 
 ## Задание
 | Номер варианта  | Задание | Передача параметров |
